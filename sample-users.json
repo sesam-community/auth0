@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "email|5912e34d48762080f84731dc",
+    "connection": "email",
+    "email": "baard.johansen2@sesam.io",
+    "app_metadata": {
+      "customerID": "987654321"
+    }
+  },
+  {
+    "connection": "email",
+    "email": "baard.johansen@bouvet.no",
+    "app_metadata": {
+      "customerID": "987654322"
+    }
+  },
+  {
+    "_id": "email|5912e3bb48762080f84731e3",
+    "_deleted": true
+  }
+]
