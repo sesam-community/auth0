@@ -1,6 +1,8 @@
 # sesam-auth0
 Reads and writes users to Auth0.
 
+[![Build Status](https://travis-ci.org/sesam-community/auth0.svg?branch=master)](https://travis-ci.org/sesam-community/auth0)
+
 ## sources
 
 An example of system config: 
